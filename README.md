@@ -197,13 +197,9 @@ El modelo **LSTM presentó el mejor rendimiento** en la predicción del flujo de
 
 # 📈 Visualizaciones
 
-✈️ **Evolución del flujo de pasajeros en aeropuertos a lo largo del tiempo**
-
-
+✈️ **Evolución del flujo de pasajeros en aeropuertos a lo largo del tiempo**  
 
 📊 **Comparación entre predicciones del modelo y datos reales**
-
-
 
 🌍 **Patrones estacionales del tráfico aéreo: meses de mayor demanda**
 
