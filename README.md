@@ -140,9 +140,6 @@ El modelo final se utiliza para **predecir el flujo futuro de pasajeros**.
                  ▼
        Visualización de resultados
 ```
-Este flujo representa una arquitectura típica de **pipeline de ciencia de datos**.
-
----
 
 # 🧰 Tecnologías utilizadas
 
