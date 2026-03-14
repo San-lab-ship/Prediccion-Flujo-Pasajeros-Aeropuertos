@@ -112,34 +112,34 @@ El modelo final se utiliza para **predecir el flujo futuro de pasajeros**.
 
 # 🏗 Arquitectura general del sistema
 
-Datos de vuelos + clima
-│
-▼
-Ingesta de datos (SQL / PySpark)
-│
-▼
-Limpieza y procesamiento de datos
-│
-▼
-Análisis exploratorio de datos
-│
-▼
-Ingeniería de características
-│
-▼
-Entrenamiento de modelos ML
-(Random Forest / XGBoost / LSTM)
-│
-▼
-Evaluación del modelo
-│
-▼
-Predicción del flujo de pasajeros
-│
-▼
-Visualización de resultados
-
-
+   ```
+        Datos de vuelos + clima
+                 │
+                 ▼
+      Ingesta de datos (SQL / PySpark)
+                 │
+                 ▼
+    Limpieza y procesamiento de datos
+                 │
+                 ▼
+      Análisis exploratorio de datos
+                 │
+                 ▼
+      Ingeniería de características
+                 │
+                 ▼
+      Entrenamiento de modelos ML
+   (Random Forest / XGBoost / LSTM)
+                 │
+                 ▼
+         Evaluación del modelo
+                 │
+                 ▼
+     Predicción del flujo de pasajeros
+                 │
+                 ▼
+       Visualización de resultados
+```
 Este flujo representa una arquitectura típica de **pipeline de ciencia de datos**.
 
 ---
